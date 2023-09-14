@@ -1,0 +1,33 @@
+body{
+  background-color: #152467b5;
+}
+
+.Movie{
+  height: 229px;
+      width: 166px;
+      margin-top: 40px;
+      padding-left: 22px;
+      padding-top: 30px;
+      padding-bottom: 20px;
+      transition: .5s;
+}
+
+.movies{
+  text-align: center;
+}
+
+.Movie:hover{
+  transform: scale(1.15);
+}
+
+.head{
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 20px;
+}
+
+.bottom{
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 20px;
+}
